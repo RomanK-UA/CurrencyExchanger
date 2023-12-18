@@ -7,5 +7,6 @@ Free APi key remains in code in `apiKey` variable.
 
 `animations.js` contains Anime.js library animation for smooth value change. (can be removed)
 
-Installation
+Installation:
+
 Clone -> Navigate to the folder -> Use "npm install" 
